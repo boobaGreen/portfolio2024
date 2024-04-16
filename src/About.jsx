@@ -14,49 +14,27 @@ function About() {
         <div>
           <p className="mb-4">
             In 2021, after many years in a completely different job with many
-            responsibilities but which I no longer liked, I decided courses. At
-            that point I felt the need to have a more certified and orderly
-            training and I decided to enroll in the{" "}
+            responsibilities but where I no longer found myself, I decided to
+            change priorities and resume my computer science studies, initially
+            for about a year alone then I felt the need to have training more
+            organic and I decided to enroll in the
             <a
               className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
               href="https://talent.start2impact.it/profile/claudio-dall-ara"
               target="_blank"
               aria-label="Start2Impact"
             >
+              {" "}
               Start2Impact{" "}
             </a>
-            Full Stack Development course
+            Full Stack Development Master course.
           </p>
           <p className="mb-4">
-            In 2021, after many years in a completely different job with many
-            responsibilities but which I no longer liked, I decided to resume my
-            computer science studies which I had left in certified and orderly
-            training and I decided to enroll in the{" "}
-            <a
-              className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-              href="https://talent.start2impact.it/profile/claudio-dall-ara"
-              target="_blank"
-              aria-label="Start2Impact"
-            >
-              Start2Impact{" "}
-            </a>
-            Full Stack Development course
-          </p>
-          <p className="mb-4">
-            In 2021, after many years in a completely different job with the{" "}
-            <a
-              className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-              href="https://talent.start2impact.it/profile/claudio-dall-ara"
-              target="_blank"
-              aria-label="Start2Impact"
-            >
-              Start2Impact{" "}
-            </a>
-            Full Stack Development course
+            Since then I have never stopped studying and learning as well as
+            programming and I am currently exploring the world of Web3
           </p>
         </div>
       </section>
-     
     </>
   );
 }

@@ -1,5 +1,7 @@
-nella formazione azggiungiamo google cloud
+
 aggiungere link x github su project vedi link di brittanay
-descrizione progetti da migliorare
-altezza colonna sx da migliorare
-nav menu da perfezionare
+descrizione progetti da migliorare da rifare
+altezza colonna sx da migliorare scrolla un pochino
+nav menu da perfezionare non rimane lungo dove sono
+titolo su phone scrolla giusto in su ma non blocca in giu
+

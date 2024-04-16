@@ -1,3 +1,4 @@
+import GoogleCloud from "./path/GoogleCloud";
 import Iti from "./path/Iti";
 import MasterBlockchainS2i from "./path/MasterBlockchainS2i";
 import MasterFullStackS2i from "./path/MasterFullStackS2i";
@@ -22,6 +23,7 @@ function Path() {
           <Solana />
           <MasterIcp />
           <MasterFullStackS2i />
+          <GoogleCloud />
           <Iti />
         </ol>
       </div>

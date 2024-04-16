@@ -9,7 +9,8 @@ function Header() {
           Full Stack - Web3 - Developer
         </h2>
         <p className="mt-4 max-w-xs leading-normal">
-          I build pixel-perfect, engaging, and accessible digital experiences.
+          Watching the fantastic world of IT and Blockchain with curiosity and a
+          growing desire to learn every day
         </p>
         <nav className="nav hidden lg:block" aria-label="In-page jump links">
           <ul className="mt-16 w-max">
@@ -28,7 +29,7 @@ function Header() {
               >
                 <span className="nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none"></span>
                 <span className="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">
-                  certification
+                  Certification
                 </span>
               </a>
             </li>
