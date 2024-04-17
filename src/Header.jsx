@@ -9,7 +9,7 @@ function Header() {
           Full Stack - Web3 - Developer
         </h2>
         <p className="mt-4 max-w-xs leading-normal">
-          Want to learn something new every day
+          Inspired from learn something new every day
         </p>
         <nav className="nav hidden lg:block" aria-label="In-page jump links">
           <ul className="mt-16 w-max">
