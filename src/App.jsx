@@ -25,7 +25,6 @@ function App() {
 
   const handleBlur = () => {
     setIsFocused(false);
-    setOpacity(0);
   };
 
   const handleMouseEnter = () => {
@@ -51,7 +50,7 @@ function App() {
           className="pointer-events-none -inset-px opacity-0 transition duration-300 fixed lg:absolute"
           style={{
             opacity,
-            background: `radial-gradient(600px circle at ${position.x}px ${position.y}px, rgba(255,255,255,.06), transparent 40%)`,
+            background: `radial-gradient(900px circle at ${position.x}px ${position.y}px, rgba(255,255,255,.06), transparent 40%)`,
           }}
         />
         {/* spot-ligt cursor */}
