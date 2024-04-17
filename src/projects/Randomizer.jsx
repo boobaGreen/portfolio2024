@@ -14,10 +14,10 @@ function Randomizer() {
             >
               <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
               <span>
-                Internet Computer Protocol - Azle - Typescript
+                Internet Computer Protocol - Azle - Typescript -
                 <span className="inline-block">
                   {" "}
-                  Randomizer App
+                  Randomizer - App
                   <svg
                     className="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
                     xmlns="http://www.w3.org/2000/svg"
@@ -36,18 +36,40 @@ function Randomizer() {
             </a>
           </h3>
           <p className="mt-2 text-sm leading-normal">
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
-            bla bla bla bla bla bla bla bla bla bla bla
+            General view of the Internet Computer Protocol ecosystem,
+            characteristics and operation. Use of he DFINITY command-line (dfx)
+            and Azle to develop canisters for app deployment (backend and
+            frontend) on ICP blockchain. Course conducted by Jordan Last of
+            Demergent Labs.
           </p>
+          <ul className="mt-2 flex flex-wrap" aria-label="Related links">
+            <li className="mr-4">
+              <a
+                className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
+                href="https://github.com/boobaGreen/randomizer"
+                target="_blank"
+                rel="noreferrer noopener"
+                aria-label="Android App (opens in a new tab)"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 20 20"
+                  fill="currentColor"
+                  className="mr-1 h-3 w-3"
+                  aria-hidden="true"
+                >
+                  <path d="M12.232 4.232a2.5 2.5 0 013.536 3.536l-1.225 1.224a.75.75 0 001.061 1.06l1.224-1.224a4 4 0 00-5.656-5.656l-3 3a4 4 0 00.225 5.865.75.75 0 00.977-1.138 2.5 2.5 0 01-.142-3.667l3-3z"></path>
+                  <path d="M11.603 7.963a.75.75 0 00-.977 1.138 2.5 2.5 0 01.142 3.667l-3 3a2.5 2.5 0 01-3.536-3.536l1.225-1.224a.75.75 0 00-1.061-1.06l-1.224 1.224a4 4 0 105.656 5.656l3-3a4 4 0 00-.225-5.865z"></path>
+                </svg>
+                <span>Repo Github</span>
+              </a>
+            </li>
+          </ul>
         </div>
         <img
           loading="lazy"
           src="/randomizer.webp" // Assicurati di specificare il percorso corretto dell'immagine all'interno della directory `public`
-          alt="prandomizer icp app"
+          alt="randomizer icp app"
           className="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30 sm:order-1 sm:col-span-2 sm:translate-y-1"
           height="48"
           width="200"

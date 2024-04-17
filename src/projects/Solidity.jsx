@@ -15,9 +15,8 @@ function Solidity() {
               <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
               <span>
                 Introduction to Blockchain , Solidity - start2impact university
+                - Repo Github
                 <span className="inline-block">
-                  {" "}
-                  readme.md{" "}
                   <svg
                     className="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
                     xmlns="http://www.w3.org/2000/svg"
@@ -36,9 +35,8 @@ function Solidity() {
             </a>
           </h3>
           <p className="mt-2 text-sm leading-normal">
-            Video course that teaches how to build a web app with the Spotify
-            Web API. Topics covered include the principles of REST APIs, user
-            auth flows, Node, Express, React, Styled Components, and more.
+            Develop a smart contract prototype for an organization non-profit
+            operating in the food sector.
           </p>
         </div>
         <img

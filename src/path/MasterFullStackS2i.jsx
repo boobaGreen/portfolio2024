@@ -42,7 +42,7 @@ function MasterFullStackS2i() {
             </h3>
             <p className="mt-2 text-sm leading-normal">
               The program: lots of practice on real cases. Develop the most
-              in-demand skills in Blockchain Development with practical projects
+              in-demand skills in Full Stack Development with practical projects
               corrected by industry professionals.
             </p>
 

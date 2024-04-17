@@ -41,8 +41,8 @@ function Solana() {
               </div>
             </h3>
             <p className="mt-2 text-sm leading-normal">
-              Solana ecosystem and use case , how solana works , build on solana
-              - MVP.
+              Solana ecosystem and use case , how solana works , build on Solana
+              , create an MVP
             </p>
 
             <ul className="mt-2 flex flex-wrap" aria-label="Technologies used">
