@@ -1,7 +1,6 @@
+aggiunte descrizione progetti react router , react qtenstack ecc ecc dove necessario
 
-
-
-altezza colonna sx da migliorare scrolla un pochino
 nav menu da perfezionare non rimane lungo dove sono
+
 titolo su phone scrolla giusto in su ma non blocca in giu
 

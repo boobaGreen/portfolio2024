@@ -60,8 +60,8 @@ function App() {
           md:px-12 md:py-20 lg:px-24 lg:py-0"
         >
           {/* main div*/}
-          <div className="min-h-screen flex flex-col lg:flex-row">
-            <Header />
+          <div className="flex flex-col lg:flex-row">
+            <Header className=" max-h-[100vh] overflow-hidden" />
             <Core />
           </div>
         </div>
