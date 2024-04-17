@@ -21,7 +21,6 @@ function Solana() {
                   <span>
                     MasterZxSolana Bootcamp{" "}
                     <span className="inline-block">
-                      start2impact
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         aria-hidden="true"

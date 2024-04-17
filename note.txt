@@ -2,6 +2,8 @@ scroll a sx da cellulare da togliere
 
 aggiunte descrizione progetti react router , react qtenstack ecc ecc dove necessario
 
+git github
+
 nav menu da perfezionare non rimane lungo dove sono
 
 titolo su phone scrolla giusto in su ma non blocca in giu
