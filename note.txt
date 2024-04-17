@@ -1,3 +1,5 @@
+scroll a sx da cellulare da togliere
+
 aggiunte descrizione progetti react router , react qtenstack ecc ecc dove necessario
 
 nav menu da perfezionare non rimane lungo dove sono
