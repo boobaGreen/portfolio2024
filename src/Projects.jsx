@@ -3,6 +3,7 @@ import Hack from "./projects/Hack";
 import Pof from "./projects/Pof";
 import PortfolioOld from "./projects/PortfolioOld";
 import Randomizer from "./projects/Randomizer";
+import ReactTs from "./projects/ReactTs";
 import Solidity from "./projects/Solidity";
 import StudyBuddyHub from "./projects/StudyBuddyHub";
 import Vegetarians from "./projects/Vegetarians";
@@ -21,6 +22,7 @@ function Projects() {
       </div>
       <div>
         <ul>
+          <ReactTs />
           <Randomizer />
           <Solidity />
           <StudyBuddyHub />
