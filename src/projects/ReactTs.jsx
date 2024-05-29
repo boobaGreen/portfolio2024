@@ -7,7 +7,7 @@ function ReactTs() {
           <h3>
             <a
               className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-              href="https://foods2impactrefactor.netlify.app"
+              href="https://foods2impact.netlify.app/"
               target="_blank"
               rel="noreferrer noopener"
               aria-label="react vegetarians app"
@@ -44,7 +44,7 @@ function ReactTs() {
             <li className="mr-4">
               <a
                 className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
-                href="https://github.com/boobaGreen/S2ImpactTriviaReactTSRefactor"
+                href="https://github.com/boobaGreen/FOODS2IMPACT"
                 target="_blank"
                 rel="noreferrer noopener"
                 aria-label="Android App (opens in a new tab)"
