@@ -7,7 +7,7 @@ function ReactTs() {
           <h3>
             <a
               className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-              href="https://foods2impact.netlify.app/"
+              href="https://foods-2-impact.vercel.app/"
               target="_blank"
               rel="noreferrer noopener"
               aria-label="react vegetarians app"
