@@ -13,9 +13,9 @@ function About() {
         </div>
         <div>
           <p className="mb-4">
-            In 2021, I made a life-changing decision to return to my passion for computer science. With determination and enthusiasm, I completed the Full Stack Development (MERN) course and am now diving into the world of Blockchain. My journey is fueled by a relentless curiosity and a desire to continuously expand my skills. Currently, I am also pursuing a PHP course.
+            In 2021, I made a life-changing decision to return to my passion for computer science. With determination and enthusiasm, I completed the Full Stack Development (MERN) master at Start2Impact.it and am now diving into the world of Blockchain. My journey is fueled by a relentless curiosity and a desire to continuously expand my skills. Currently, I am also pursuing a PHP course.
           </p>
-          <p className="mb-4">
+          {/* <p className="mb-4">
             I decided to enroll in the
             <a
               className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
@@ -27,7 +27,7 @@ function About() {
               <span>Start2Impact</span>{" "}
             </a>
             Full Stack Development Master course.
-          </p>
+          </p> */}
         </div>
       </section>
     </>

@@ -36,7 +36,7 @@ function Smart() {
             </a>
           </h3>
           <p className="mt-2 text-sm leading-normal">
-          traduci in ita:  Real site for a moving company in Cesena. I developed the entire site, including design, implementation, cookies, deployment, and domain maintenance.
+       Real site for a moving company in Cesena. I developed the entire site, including design, implementation, cookies, deployment, and domain maintenance.
           </p>
           <ul className="mt-2 flex flex-wrap" aria-label="Related links">
             <li className="mr-4">
