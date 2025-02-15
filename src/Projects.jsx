@@ -4,6 +4,7 @@ import Pof from "./projects/Pof";
 import PortfolioOld from "./projects/PortfolioOld";
 import Randomizer from "./projects/Randomizer";
 import ReactTs from "./projects/ReactTs";
+import Smart from "./projects/Smart";
 import Solidity from "./projects/Solidity";
 import StudyBuddyHub from "./projects/StudyBuddyHub";
 import Vegetarians from "./projects/Vegetarians";
@@ -22,6 +23,7 @@ function Projects() {
       </div>
       <div>
         <ul>
+          <Smart />
           <ReactTs />
           <Randomizer />
           <Solidity />

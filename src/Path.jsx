@@ -4,6 +4,8 @@ import MasterBlockchainS2i from "./path/MasterBlockchainS2i";
 import MasterFullStackS2i from "./path/MasterFullStackS2i";
 import MasterIcp from "./path/MasterIcp";
 import Solana from "./path/Solana";
+import Binance from "./path/Binance";
+import Buddy from "./path/Buddy";
 
 function Path() {
   return (
@@ -19,6 +21,8 @@ function Path() {
       </div>
       <div>
         <ol>
+          <Buddy/>
+          <Binance/>
           <MasterBlockchainS2i />
           <Solana />
           <MasterIcp />

@@ -13,11 +13,10 @@ function About() {
         </div>
         <div>
           <p className="mb-4">
-            In 2021, after many years in a completely different job with many
-            responsibilities but where I no longer found myself, I decided to
-            change priorities and resume my computer science studies, initially
-            for about a year alone then I felt the need to have training more
-            organic and I decided to enroll in the
+            In 2021, I made a life-changing decision to return to my passion for computer science. With determination and enthusiasm, I completed the Full Stack Development (MERN) course and am now diving into the world of Blockchain. My journey is fueled by a relentless curiosity and a desire to continuously expand my skills. Currently, I am also pursuing a PHP course.
+          </p>
+          <p className="mb-4">
+            I decided to enroll in the
             <a
               className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
               href="https://talent.start2impact.it/profile/claudio-dall-ara"
@@ -25,13 +24,9 @@ function About() {
               aria-label="Start2Impact"
             >
               {" "}
-              Start2Impact{" "}
+              <span>Start2Impact</span>{" "}
             </a>
             Full Stack Development Master course.
-          </p>
-          <p className="mb-4">
-            Since then I have never stopped studying and learning as well as
-            programming and I am currently exploring the world of Web3
           </p>
         </div>
       </section>

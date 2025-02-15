@@ -1,27 +1,27 @@
-function MasterIcp() {
+function Binance() {
   return (
     <>
       <li className="mb-12">
         <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
           <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
           <header className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2">
-            March 2024
+            March-April 2025
           </header>
           <div className="z-10 sm:col-span-6">
             <h3 className="font-medium leading-snug text-slate-200">
               <div>
                 <a
-                  href="https://www.linkedin.com/feed/update/urn:li:activity:7184646150405181440/"
+                  href="https://epicode.com/wp-content/uploads/2025/01/Corso-Web3-Blockchain-e-Crypto-_-Binance_AddOn_Brochure.pdf"
                   className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
                   target="_blank"
                   rel="noreferrer noopener"
-                  aria-label="Course Icp"
+                  aria-label="EPICODE-BINANCE Scholarship"
                 >
                   <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                   <span>
-                    Internet Computer Protocol - Azle{" "}
+                    EPICODE-BINANCE Scholarship: Web3, Solidity, EVM, Hardhat, Foundry, OpenZeppelin, Web3Js{" "}
                     <span className="inline-block">
-                      ICP Hub Italia & Ticino
+                      EPICODE
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         aria-hidden="true"
@@ -41,63 +41,49 @@ function MasterIcp() {
               </div>
             </h3>
             <p className="mt-2 text-sm leading-normal">
-              Internet Computer Protocol Course - Azle - Typescript with Jordan Last of Demergent Labs. The developer of the framework, Jordan Last (GitHub: lastmjs), liked my GitHub repository for the project, which made me very proud.
+              I won a scholarship with EPICODE-BINANCE for Web3. These topics were already covered in the blockchain master at Start2Impact, but I want to participate to further deepen my knowledge and network.
             </p>
+
 
             <ul className="mt-2 flex flex-wrap" aria-label="Technologies used">
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Blockchain
+                  Web3
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Typescript
+                  Solidity
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Azle
+                  EVM
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  dfx
+                  Hardhat
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  ICP
+                  Foundry
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Canister
+                  OpenZeppelin
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Node.js
+                  Web3Js
                 </div>
               </li>
               <li className="mr-1.5 mt-2">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Express
-                </div>
-              </li>
-              <li className="mr-1.5 mt-2">
-                <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  React
-                </div>
-              </li>
-              <li className="mr-1.5 mt-2">
-                <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Tailwind
-                </div>
-              </li>
-              <li className="mr-1.5 mt-2">
-                <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                  Lit
+                  Ether.js
                 </div>
               </li>
             </ul>
@@ -108,4 +94,4 @@ function MasterIcp() {
   );
 }
 
-export default MasterIcp;
+export default Binance;
