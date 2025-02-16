@@ -8,6 +8,7 @@ import Smart from "./projects/Smart";
 import Solidity from "./projects/Solidity";
 import StudyBuddyHub from "./projects/StudyBuddyHub";
 import Vegetarians from "./projects/Vegetarians";
+import Cartellini from "./projects/Cartellini";
 
 function Projects() {
   return (
@@ -25,6 +26,7 @@ function Projects() {
         <ul>
           <Smart />
           <ReactTs />
+          <Cartellini/>
           <Randomizer />
           <Solidity />
           <StudyBuddyHub />
