@@ -9,6 +9,7 @@ import Solidity from "./projects/Solidity";
 import StudyBuddyHub from "./projects/StudyBuddyHub";
 import Vegetarians from "./projects/Vegetarians";
 import Cartellini from "./projects/Cartellini";
+import LinkShield from "./projects/LinkShield";
 
 function Projects() {
   return (
@@ -24,6 +25,7 @@ function Projects() {
       </div>
       <div>
         <ul>
+          <LinkShield/>
           <Smart />
           <ReactTs />
           <Cartellini/>
